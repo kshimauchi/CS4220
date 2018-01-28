@@ -62,4 +62,5 @@ All parties involved will receive a grade of F for the assignment.  Additionally
 **Week 1 - 01/28**
  - Administrative Tasks <br/>
  - Installing Node.js / Setup development environment
+ - Intro to Javascript
  <br/>
