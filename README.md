@@ -23,7 +23,7 @@ Email: acervan5@calstatela.edu
 
 
 **Course Description:** <br/>
-This course will cover Node.js for the server-side and Vue.js for the frontend user interface. It will begin with a discussion on the fundamentals, including syntax, scope, the eventloop, callbacks and more. Then the class will jump right into teaching the Node.js platform through handling HTTP methods GET, POST, PUT and DELETE to execute operations, utilizing open-source modules and covering the Angular MVVM framework.  The course will have several homework assignments and a project where students will build a RESTful web service application using Node.js and Vue.js.
+This course will cover Node.js for the server-side and Vue.js for the frontend user interface. It will begin with a discussion on the fundamentals, including syntax, scope, the eventloop, callbacks and more. Then the class will jump right into teaching the Node.js platform through handling HTTP methods GET, POST, PUT and DELETE to execute operations, utilizing open-source modules and covering the Vue.js framework.  The course will have several homework assignments and a project where students will build a RESTful web service application using Node.js and Vue.js.
 
 **Recommended Prerequisites:** <br/>
 CS1220, CS2011, CS3220 <br/>
@@ -64,3 +64,22 @@ All parties involved will receive a grade of F for the assignment.  Additionally
  - Installing Node.js / Setup development environment
  - Intro to Javascript
  <br/>
+
+### Online Resources
+
+**Javascript Text Editors / IDE**
+
+[Sublime Text 3] (http://www.sublimetext.com/3) <br/>
+[VS Code] (https://code.visualstudio.com/)
+
+**Javascript** <br/>
+Mozilla Developer Network <br/>
+[Introduction Into Javascript]( https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript) <br/>
+
+**ES6** <br/>
+[JS Next] (http://chimera.labs.oreilly.com/books/1234000001623/ch01.html) <br/>
+[Understanding ES6] (https://leanpub.com/understandinges6/read#leanpub-auto-introduction) <br/>
+
+**Node & Vue** <br/>
+[Node.js] (https://nodejs.org) <br/>
+[Vue.js] (https://vuejs.org)
